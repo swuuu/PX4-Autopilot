@@ -104,6 +104,12 @@ if(gazebo_FOUND)
 		typhoon_h480
 		uuv_bluerov2_heavy
 		uuv_hippocampus
+		x500
+		x500_depth
+		x500_lidar
+		x500_mono_cam
+		x500_mono_cam_down
+		x500_vision
 	)
 
 	set(worlds
@@ -117,6 +123,7 @@ if(gazebo_FOUND)
 		warehouse
 		windy
 		yosemite
+		x500
 	)
 
 	# find corresponding airframes

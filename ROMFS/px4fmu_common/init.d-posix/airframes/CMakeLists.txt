@@ -68,6 +68,13 @@ px4_add_romfs_files(
 	1062_flightgear_tf-r1
 	1070_gazebo-classic_boat
 
+	2001_gazebo-classic_x500
+	2002_gazebo-classic_x500_depth
+	2005_gazebo-classic_x500_vision
+	2010_gazebo-classic_x500_mono_cam
+	2013_gazebo-classic_x500_lidar
+	2014_gazebo-classic_x500_mono_cam_down
+
 	2507_gazebo-classic_cloudship
 
 	3010_jsbsim_quadrotor_x
